@@ -1,0 +1,225 @@
+city,case rate,cases,zipcode
+Adams-Normandie,4304,353,0
+Agoura Hills,1255,262,91301
+Alhambra,1910,1656,"91801,91803"
+Alsace,3921,488,0
+Angeles National Forest,5000,2,0
+Angelino Heights,3317,83,0
+Arcadia,1170,676,"91006,91007"
+Arleta,6110,2100,91331
+Artesia,2888,485,90701
+Atwater Village,2407,353,90039
+Avalon,129,5,90704
+Azusa,4019,2011,"91010,91702"
+Baldwin Hills,2567,799,90008
+Baldwin Park,5105,3919,91706
+Bel Air,1376,116,90049
+Bell,5472,1988,"90201,90270"
+Bell Gardens,5860,2524,90201
+Bellflower,3890,3024,90706
+Beverly Crest,1437,180,0
+Beverly Hills,2520,870,"90210,90211,90212"
+Beverlywood,1670,220,0
+Boyle Heights,6243,5424,"90033, 90063"
+Bradbury,1964,21,"91008,91010"
+Brentwood,1412,437,90049
+Brookside,1033,6,0
+Burbank,2182,2339,"91501, 91502, 91505, 91506"
+Cadillac-Corning,2443,174,0
+Calabasas,1521,370,91302
+Canoga Park,4119,2689,"91303, 91304"
+Carson,2491,2338,"90745, 90746, 90810"
+Carthay,2047,294,0
+Century City,1368,175,90067
+Century Palms,5476,1849,90034
+Cerritos,1484,743,90703
+Chatsworth,2588,959,91311
+Cheviot Hills,1298,119,90064
+Chinatown,2394,192,90012
+Claremont,1568,572,91711
+Commerce,5823,761,90040
+Compton,5063,5058,"90220, 90221, 90222, 90224"
+Country Club Park,3036,460,90019
+Covina,3671,1800,"91722, 91723, 91724"
+Crenshaw District,2936,406,90008
+Crestview,2155,245,0
+Cudahy,5746,1399,90201
+Culver City,1322,527,"90066, 90230, 90232"
+Del Rey,1684,504,90293
+Diamond Bar,1389,799,"91765, 91789"
+Downey,4727,5401,"90240, 90241, 90242"
+Downtown Central,6712,2617,"90012,90013"
+Duarte,3279,722,91010
+Eagle Rock,2291,907,90041
+East Hollywood,2882,844,90029
+Echo Park,2595,370,90026
+El Monte,4774,5599,"91731, 91732, 91733"
+El Segundo,1037,174,90245
+El Sereno,4085,1708,90032
+Elysian Park,2293,131,0
+Elysian Valley,3510,357,90039
+Encino,2200,994,"91316, 91436"
+Exposition,2616,87,0
+Exposition Park,3854,1731,0
+Faircrest Heights,1417,51,0
+Figueroa Park Square,4655,406,0
+Florence-Firestone,6079,2884,90001
+Gardena,2489,1526,"90247, 90248, 90249"
+Glassell Park,2974,940,90065
+Glendale,2650,5472,"91201, 91202, 91203, 91206, 91207, 91208, 91214, 91224"
+Glendora,2928,1545,"91740, 91741"
+Gramercy Place,2982,321,0
+Granada Hills,3047,1773,91344
+Green Meadows,5431,1168,0
+Hancock Park,1843,314,"90004, 90005, 90020"
+Harbor City,2184,635,90710
+Harbor Gateway,2853,1244,"90061, 90247, 90248, 90501, 90502"
+Harbor Pines,1577,38,0
+Harvard Heights,3754,677,90006
+Harvard Park,5277,2002,0
+Hawaiian Gardens,4381,643,90716
+Hawthorne,2818,2502,90250
+Hermosa Beach,1596,314,90254
+Hidden Hills,1217,23,91302
+Highland Park,3178,1538,90042
+Historic Filipinotown,4009,556,0
+Hollywood,2466,1683,"90027, 90028, 90038, 90046, 90068, 90069"
+Hollywood Hills,1712,504,0
+Huntington Park,6054,3601,90255
+Hyde Park,3455,986,90043
+Industry,13043,57,"90601, 91744, 91748, 91789"
+Inglewood,3251,3692,"90301, 90302, 90303, 90304, 90305"
+Irwindale,5894,86,"91010, 91702, 91706"
+Jefferson Park,4150,335,90018
+Koreatown,2846,1471,"90005, 90006"
+La Canada Flintridge,1107,229,91011
+La Habra Heights,1247,68,90631
+La Mirada,2238,1110,90638
+La Puente,4823,1963,91744
+La Verne,2097,698,91750
+Lafayette Square,2698,123,0
+Lake Balboa,3478,1468,91406
+Lakeview Terrace,5658,743,91342
+Lakewood,2072,1665,"90712, 90713, 90715"
+Lancaster,3372,5448,"93534, 93535, 93536, 93586"
+Lawndale,2585,869,90260
+Leimert Park,2704,412,"90008, 90018"
+Lincoln Heights,4273,1393,90031
+Little Armenia,5508,442,0
+Little Bangladesh,2427,688,0
+Little Tokyo,4149,130,90012
+Lomita,1457,302,90717
+Longwood,3346,144,0
+Los Feliz,1495,323,90027
+Lynwood,5717,4119,90262
+Malibu,1080,140,90265
+Manchester Square,3081,263,0
+Mandeville Canyon,1152,36,0
+Manhattan Beach,1314,473,90266
+Mar Vista,1102,468,90066
+Marina Peninsula,1216,53,90292
+Maywood,6136,1721,90270
+Melrose,3260,2533,"90036, 90046, 90069"
+Mid-city,2309,347,90019
+Miracle Mile,1479,266,90036
+Mission Hills,5078,1225,"91340, 91345"
+Monrovia,2541,986,"91010, 91016"
+Montebello,4682,3014,90640
+Monterey Park,1942,1209,"91754, 91755"
+Mt Washington,3007,726,90065
+North Hills,4164,2564,91343
+North Hollywood,3707,5613,"91601, 91602, 91604, 91605, 91606, 91607"
+Northridge,2877,2008,"91324, 91325, 91326"
+Norwalk,4077,4388,90650
+Pacific Palisades,911,194,90272
+Pacoima,6485,4992,"91331, 91340"
+Palisades Highlands,1118,43,90272
+Palmdale,4110,6534,"93550, 93551, 93552, 93591"
+Palms,1554,682,90034
+Palos Verdes Estates,924,125,"90274, 90275"
+Panorama City,5361,4034,91402
+Paramount,5407,3029,90723
+Park La Brea,1267,172,90036
+Pico Rivera,4990,3208,90660
+Pico-Union,5124,2144,90006
+Playa Del Rey,1283,41,90293
+Playa Vista,1608,176,90094
+Pomona,4720,7360,"91767, 91768"
+Porter Ranch,1610,573,91326
+Rancho Palos Verdes,901,385,"90275, 90732"
+Rancho Park,1753,115,90064
+Redondo Beach,1149,789,"90277, 90278"
+Regent Square,1403,39,0
+Reseda,4218,3232,91335
+Reseda Ranch,3926,182,0
+Reynier Village,1301,55,0
+Rolling Hills,619,12,90274
+Rolling Hills Estates,752,61,90275
+Rosemead,2105,1165,91770
+San Dimas,2202,760,91773
+San Fernando,5705,1404,91340
+San Gabriel,2117,867,"91775, 91776"
+San Marino,806,107,91108
+San Pedro,2990,2333,"90731, 90732"
+Santa Clarita,2460,5423,"91321, 91350, 91351, 91354, 91355, 91382, 91387, 91390"
+Santa Fe Springs,3926,721,90670
+Santa Monica,1420,1313,"90402, 90403, 90404"
+Shadow Hills,2364,105,91040
+Sherman Oaks,1826,1593,"91403, 91413, 91423"
+Sierra Madre,1028,113,91024
+Signal Hill,3086,364,90755
+Silverlake,1971,869,"90026, 90039"
+South Carthay,1529,162,0
+South El Monte,5056,1056,91733
+South Gate,5728,5622,90280
+South Park,6478,2459,"90015,90017"
+South Pasadena,1409,367,91030
+St Elmo Village,3883,178,0
+Studio City,1555,349,"91602, 91604"
+Sun Valley,4716,2475,91352
+Sunland,3067,626,91040
+Sycamore Square,1236,8,0
+Sylmar,5688,4687,"91340, 91342"
+Tarzana,3261,1007,91356
+Temple City,1775,647,91780
+Temple-Beaudry,3893,1537,0
+Thai Town,2742,269,0
+Toluca Lake,1643,143,91602
+Toluca Terrace,2297,30,91601
+Toluca Woods,1776,33,0
+Torrance,1219,1820,"90277, 90278, 90501, 90503, 90504, 90505"
+Tujunga,2819,784,91042
+University Hills,2158,74,90032
+University Park,5114,1404,90007
+Valley Glen,3265,980,"91401, 91405, 91606, 91607"
+Valley Village,2686,664,91607
+Van Nuys,4600,4287,"91401, 91403, 91406, 91411, 91423"
+Venice,1366,463,90291
+Vermont Knolls,4942,850,0
+Vermont Square,5511,422,0
+Vermont Vista,5669,2335,0
+Vernon,8134,17,90058
+Vernon Central,6983,3631,90058
+Victoria Park,3167,266,0
+View Heights,1733,64,0
+Walnut,1353,413,91789
+Watts,5556,2371,"90002, 90059"
+Wellington Square,3357,165,0
+West Adams,4144,1145,90016
+West Covina,3479,3765,"91790, 91791, 91792"
+West Hills,1916,777,"91304, 91307"
+West Hollywood,2292,847,"90046, 90048, 90069"
+West Los Angeles,1746,657,90025
+West Vernon,5384,2888,0
+Westchester,1155,596,90083
+Westlake,4803,2851,90057
+Westlake Village,574,48,"91361, 91362"
+Westwood,1231,666,90609
+Whittier,3526,3083,"90601, 90602, 90603, 90604, 90605"
+Wholesale,7822,2826,0
+Wilmington,3935,2223,90744
+Wilshire Center,2890,1450,"90004, 90005, 90010, 90020"
+Winnetka,3592,1860,91306
+Woodland Hills,2050,1395,"91364, 91367"
+Phoenix , 4780,3888,"85006"
+Phoen,  5300,2400,"85007"
