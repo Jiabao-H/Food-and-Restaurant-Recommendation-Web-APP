@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Detail</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    {% load staticfiles %}
+    <meta name="keywords" content=""/>
+    <link href="{% static '/css/bootstrap.min.css' %}" rel="stylesheet" type="text/css" media="all">
+    <link href="{% static '/css/fontawesome-all.min.css' %}" rel="stylesheet" type="text/css" media="all">
+    <link rel="stylesheet" href="{% static '/css/lightbox.css' %}" type="text/css" media="all">
+    <link href="{% static '/css/style.css' %}" rel="stylesheet" type="text/css" media="all"/>
+    <link href="{% static '/http://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800,900' %}"
+          rel="stylesheet">
+    <link href="{% static '/http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800' %}" rel="stylesheet">
+    <link href="{% static '/http://fonts.googleapis.com/css?family=Niconne|Oleo+Script' %}" rel="stylesheet">
+</head>
+<body>
+<div class="agile-banner-main1" id="home">
+    <div class="banner-layer">
+        <div class="header-main">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-6 w3_bl">
+
+                    <div class='social-wrap'>
+                        <ul>
+                            <li><a class='facebook1'> <i class="fab fa-facebook-f"></i> </a></li>
+                            <li><a class='twitter1'><i class="fab fa-twitter"></i> </a></li>
+                            <li><a class='google-p1'> <i class="fab fa-google-plus-g"></i> </a></li>
+                            <li><a class='linkdin1'><i class="fab fa-linkedin-in"></i> </a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-6 w3_br">
+                    <div class="w3_rt">
+                        <form method="post" action="/about_food" class="form-inline my-2 my-lg-0">
+                            <input class="form-control mr-sm-2 ml-auto" type="search"
+                                   placeholder="Enter restaurant names" required=""
+                                   aria-label="Search" , name="Search">
+                            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="banner-top">
+                <div class="banner-info1">
+
+                    <h1>
+                        <a href="/index_food" style="font-family: 'HGF5X_CNKI'">Restaurant</a>
+                    </h1>
+
+                    <div class="about-p text-center">
+                        <span class="sub-title"></span>
+                        <span class="fa fa-cutlery" aria-hidden="true"></span>
+                        <span class="sub-title"></span>
+                    </div>
+                    <p>Only for the safest restaurants</p>
+                    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+
+                        <button class="navbar-toggler" type="button" data-toggle="collapse"
+                                data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                                aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                    </nav>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="clearfix"></div>
+    </div>
+</div>
+
+<div class="about py-lg-5 py-md-4 py-sm-3 py-2" id="about">
+    <div class="container py-lg-5 py-md-4 py-sm-3 py-2">
+        <h3 class="agile">Find results</h3>
+        <div class="panel-body">
+            <div class="table-responsive">
+                <table class="table table-hover mb-none">
+                    <thead>
+                    <tr>
+                        <th>Product Name</th>
+                        <th>Creator</th>
+                        <th>Countries</th>
+                        <th>Energy/100g</th>
+                        <th>Fat/100g</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for item in food_list %}
+                        <tr>
+                            <td>{{ item.0.product_name }}</td>
+                            <td>{{ item.0.creator }}</td>
+                            <td>{{ item.0.countries }}</td>
+                            <td>{{ item.0.energy_100g }}</td>
+                            <td>{{ item.0.fat_100g }}</td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<div class="copyright py-lg-3 py-md-2 py-sm-1 py-1">
+    <p class="copy-right">Copyright &copy;
+        <script>document.write(new Date().getFullYear());</script>
+        Information retrieval system | Design by QtqTeam
+    </p>
+</div>
+
+<script src="{% static '/js/jquery.min.v3.js' %}"></script>
+<script src="{% static '/js/lightbox-plus-jquery.min.js' %}"></script>
+<script src="{% static '/js/simple-lightbox.min.js' %}"></script>
+<script src="{% static '/js/bootstrap.min.js' %}"></script>
+<script src="{% static '/js/move-top.js' %}"></script>
+<script src="{% static '/js/easing.js' %}"></script>
+<script src="{% static '/js/SmoothScroll.min.js' %}"></script>
+
+
+<script>
+    $(function () {
+        var gallery = $('.w3gallery-grids a').simpleLightbox({
+            navText: ['&lsaquo;', '&rsaquo;']
+        });
+    });
+</script>
+<link href='css/simplelightbox.min.css' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $().UItoTop({easingType: 'easeOutQuart'});
+
+    });
+</script>
+
+
+<script type="text/javascript">
+    jQuery(document).ready(function ($) {
+        $(".scroll").click(function (event) {
+            event.preventDefault();
+            $('html,body').animate({scrollTop: $(this.hash).offset().top}, 1000);
+        });
+    });
+</script>
+
+</body>
+</html>

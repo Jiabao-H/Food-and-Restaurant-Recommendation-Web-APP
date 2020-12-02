@@ -1,0 +1,97 @@
+<html class="fixed">
+<head>
+
+    <meta charset="UTF-8">
+    {% load staticfiles %}
+    <meta name="keywords" content="HTML5 Admin Template"/>
+    <meta name="description" content="Porto Admin - Responsive HTML5 Template">
+    <meta name="author" content="okler.net">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800|Shadows+Into+Light"
+          rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="{% static '/assets/vendor/bootstrap/css/bootstrap.css' %}"/>
+    <link rel="stylesheet" href="{% static '/assets/vendor/font-awesome/css/font-awesome.css' %}"/>
+    <link rel="stylesheet" href="{% static '/assets/vendor/magnific-popup/magnific-popup.css' %}"/>
+    <link rel="stylesheet" href="{% static '/assets/vendor/bootstrap-datepicker/css/datepicker3.css' %}"/>
+    <link rel="stylesheet" href="{% static '/assets/stylesheets/theme.css' %}"/>
+    <link rel="stylesheet" href="{% static '/assets/stylesheets/skins/default.css' %}"/>
+    <link rel="stylesheet" href="{% static '/assets/stylesheets/theme-custom.css' %}">
+    <script src="{% static '/assets/vendor/modernizr/modernizr.js' %}"></script>
+
+</head>
+<body>
+<section class="body-sign">
+    <div class="center-sign">
+        <div class="panel panel-sign">
+            <div class="panel-title-sign mt-xl text-right">
+                <h2 class="title text-uppercase text-bold m-none"><i class="fa fa-user mr-xs"></i>&emsp;SignUp&emsp;
+                </h2>
+            </div>
+            <div class="panel-body">
+                <form action="/signup" method="post">
+                    {% if message %}
+                        <div class="alert alert-warning">{{ message }}</div>
+                    {% endif %}
+                    <div class="form-group mb-lg">
+                        <label>UserName</label>
+                        <input name="username" type="text" class="form-control input-lg" required/>
+                    </div>
+
+                    <div class="form-group mb-lg">
+                        <label>Password</label>
+                        <input name="password" type="password" class="form-control input-lg" required/>
+                    </div>
+
+                    <div class="form-group mb-lg">
+                        <label>Password Confirmation</label>
+                        <input name="repassword" type="password" class="form-control input-lg" required/>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-8">
+                            <div class="checkbox-custom checkbox-default">
+                                <input id="AgreeTerms" name="agreeterms" type="checkbox"/>
+                                <label for="AgreeTerms">I agree with <a href="#">terms of use</a></label>
+                            </div>
+                        </div>
+                        <div class="col-sm-4 text-right">
+                            <button type="submit" class="btn btn-primary hidden-xs">Sign Up</button>
+                            <button type="submit" class="btn btn-primary btn-block btn-lg visible-xs mt-lg">Sign Up
+                            </button>
+                        </div>
+                    </div>
+
+                    <span class="mt-lg mb-lg line-thru text-center text-uppercase">
+								<span>or</span>
+							</span>
+
+                    <div class="mb-xs text-center">
+                        <a class="btn btn-facebook mb-md ml-xs mr-xs">Connect with <i class="fa fa-facebook"></i></a>
+                        <a class="btn btn-twitter mb-md ml-xs mr-xs">Connect with <i class="fa fa-twitter"></i></a>
+                    </div>
+
+                    <p class="text-center">Already have an account? <a href="/signin">Sign In!</a>
+
+                </form>
+            </div>
+        </div>
+
+        <p class="text-center text-muted mt-md mb-md">Copy right &copy;
+            <script>document.write(new Date().getFullYear());</script>
+            Information retrieval system | Designed by LeiGao & Fengfeng & Jiabao He's Team
+        </p>
+    </div>
+</section>
+
+<script src="{% static '/assets/vendor/jquery/jquery.js' %}"></script>
+<script src="{% static '/assets/vendor/jquery-browser-mobile/jquery.browser.mobile.js' %}"></script>
+<script src="{% static '/assets/vendor/bootstrap/js/bootstrap.js' %}"></script>
+<script src="{% static '/assets/vendor/nanoscroller/nanoscroller.js' %}"></script>
+<script src="{% static '/assets/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js' %}"></script>
+<script src="{% static '/assets/vendor/magnific-popup/magnific-popup.js' %}"></script>
+<script src="{% static '/assets/vendor/jquery-placeholder/jquery.placeholder.js' %}"></script>
+<script src="{% static '/assets/javascripts/theme.js' %}"></script>
+<script src="{% static '/assets/javascripts/theme.custom.js' %}"></script>
+<script src="{% static '/assets/javascripts/theme.init.js' %}"></script>
+</body>
+</html>
