@@ -1,0 +1,401 @@
+code,creator,created_datetime,product_name,countries,energy_100g,fat_100g
+3087,openfoodfacts-contributors,2016-09-17T09:17:46Z,Farine de blé noir,en:FR,,
+4530,usda-ndb-import,2017-03-09T14:32:37Z,Banana Chips Sweetened (Whole),US,2243,28.57
+4559,usda-ndb-import,2017-03-09T14:32:37Z,Peanuts,US,1941,17.86
+16087,usda-ndb-import,2017-03-09T10:35:31Z,Organic Salted Nut Mix,US,2540,57.14
+16094,usda-ndb-import,2017-03-09T10:34:13Z,Organic Polenta,US,1552,1.43
+16100,usda-ndb-import,2017-03-09T10:34:11Z,Breadshop Honey Gone Nuts Granola,US,1933,18.27
+16117,usda-ndb-import,2017-03-09T10:35:30Z,Organic Long Grain White Rice,US,1490,
+16124,usda-ndb-import,2017-03-09T10:35:11Z,Organic Muesli,US,1833,18.75
+16193,usda-ndb-import,2017-03-09T10:34:11Z,Organic Dark Chocolate Minis,US,2406,37.5
+16513,usda-ndb-import,2017-03-09T10:34:14Z,Organic Sunflower Oil,US,3586,100
+16612,usda-ndb-import,2017-03-09T10:35:31Z,Organic Adzuki Beans,US,1393,1.04
+16650,usda-ndb-import,2017-03-09T10:34:28Z,Organic Penne Pasta,US,1540,1.75
+16872,usda-ndb-import,2017-03-09T10:34:10Z,Zen Party Mix,US,2230,36.67
+16933,usda-ndb-import,2017-03-09T10:34:11Z,Organic Golden Flax Seeds,US,2590,42.86
+17497,usda-ndb-import,2017-03-09T10:34:38Z,Organic Spicy Punks,US,2536,48.48
+18012,usda-ndb-import,2017-03-09T10:34:12Z,Cinnamon Nut Granola,US,1824,18.18
+18050,usda-ndb-import,2017-03-09T09:07:42Z,Organic Hazelnuts,US,2632,60.71
+18173,usda-ndb-import,2017-03-09T10:34:27Z,Organic Sweetened Banana Chips,US,2092,26.67
+18197,usda-ndb-import,2017-03-09T10:34:12Z,Lotus Organic Brown Jasmine Rice,US,1582,2.22
+18227,usda-ndb-import,2017-03-09T10:34:42Z,Organic Oat Groats,US,1096,5.95
+18265,usda-ndb-import,2017-03-09T10:35:06Z,Energy Power Mix,US,1464,17.5
+18289,usda-ndb-import,2017-03-09T10:34:14Z,Antioxidant Mix - Berries & Chocolate,US,2092,33.33
+18319,usda-ndb-import,2017-03-09T10:35:20Z,Organic Quinoa Coconut Granola With Mango,US,1674,10.91
+18340,usda-ndb-import,2017-03-09T10:35:21Z,Fire Roasted Hatch Green Chile Almonds,US,2372,50
+18357,usda-ndb-import,2017-03-10T09:34:46Z,Peanut Butter Power Chews,US,1954,20
+18371,usda-ndb-import,2017-03-09T10:35:13Z,Real Salt Granular,US,,
+18388,usda-ndb-import,2017-03-09T10:34:13Z,Organic Unswt Berry Coconut Granola,US,1548,22.22
+18395,usda-ndb-import,2017-03-09T10:34:14Z,Roasted Salted Black Pepper Cashews,US,2372,46.67
+18401,usda-ndb-import,2017-03-09T10:35:12Z,Thai Curry Roasted Cashews,US,2372,43.33
+18418,usda-ndb-import,2017-03-09T10:35:14Z,Wasabi Tamari Almonds,US,2230,46.67
+18449,usda-ndb-import,2017-03-09T10:34:43Z,Organic Medium Shredded Coconut,US,2230,30
+18456,usda-ndb-import,2017-03-09T10:35:18Z,Organic Red Quinoa,US,1490,6.67
+18500,usda-ndb-import,2017-03-09T10:34:10Z,Dark Chocolate Coconut Chews,US,2092,35
+18517,usda-ndb-import,2017-03-09T10:35:04Z,Seventh Heaven Organic Trail Mix,US,2092,32.14
+18524,usda-ndb-import,2017-03-09T10:35:20Z,"Organic Unsweetened Granola, Cinnamon Almond",US,1887,21.57
+18555,usda-ndb-import,2017-03-09T10:35:09Z,Organic Blueberry Almond Granola,US,1674,9.09
+18562,usda-ndb-import,2017-03-09T09:07:42Z,"Sweeteners, Demerara Turbinado Sugar",US,1569,
+18579,usda-ndb-import,2017-03-09T10:34:12Z,Aunt Maple's Crunchy Granola,US,2092,28.57
+18630,usda-ndb-import,2017-03-09T10:35:22Z,Organic Coconut Chips,US,2761,65
+18708,usda-ndb-import,2017-03-09T10:34:27Z,Organic Black Beans,US,1393,
+18753,usda-ndb-import,2017-03-09T10:35:28Z,Organic Whole Grain Emmer Farro,US,1515,2.13
+18760,usda-ndb-import,2017-03-09T10:35:08Z,Organic Hard Red Wheat Berries,US,1335,2.13
+18869,usda-ndb-import,2017-03-09T10:34:12Z,Aunt Ginger's Snappy Granola,US,1941,17.86
+18883,usda-ndb-import,2017-03-09T10:35:20Z,Dark Chocolate Sea Salt & Turbinado Almonds,US,2197,35
+18937,usda-ndb-import,2017-03-09T10:34:38Z,Divinely Organic Granola,US,1749,14.55
+18944,usda-ndb-import,2017-03-09T10:34:11Z,Organic Black Chia Seeds,US,2046,32.14
+20114,chris13,2017-08-11T09:33:29Z,Naturablue original,en:FR,,
+24600,date-limite-app,2015-06-17T08:45:04Z,Filet de bœuf,France,,
+27083,canieatthis-app,2016-08-26T15:03:02Z,Marks % Spencer 2 Blueberry Muffins,en:GB,1513,
+27205,tacinte,2016-03-17T18:17:10Z,,en:FR,,
+30038,usda-ndb-import,2017-03-09T10:34:09Z,Organic French Green Lentils,US,1490,
+30113,chris13,2017-08-11T09:37:46Z,Naturakrill original,en:FR,,
+30540,usda-ndb-import,2017-03-09T10:34:09Z,Organic Garbanzo Beans,US,1335,5.32
+30557,usda-ndb-import,2017-03-09T10:34:09Z,Organic Green Split Peas,US,1582,1.11
+30564,usda-ndb-import,2017-03-09T10:35:30Z,Organic Small Red Chili Beans,US,699,
+30571,usda-ndb-import,2017-03-09T10:35:11Z,Organic Small White Beans,US,1674,
+30595,usda-ndb-import,2017-03-09T10:34:12Z,Organic Grey-Green Lentils,US,1582,1.11
+30625,usda-ndb-import,2017-03-09T10:34:09Z,Organic Yellow Split Peas,US,1582,1.11
+30649,usda-ndb-import,2017-03-09T10:35:34Z,Organic Mung Beans,US,1477,0.98
+30717,usda-ndb-import,2017-03-09T10:34:38Z,Organic Baby Lima Beans,US,1393,
+30724,usda-ndb-import,2017-03-09T10:34:38Z,Organic Dark Red Kidney Bean,US,1272,
+31097,usda-ndb-import,2017-03-09T10:35:01Z,Coconut Almond Granola,US,2054,25.45
+31141,usda-ndb-import,2017-03-09T10:35:30Z,Super Nutty Granola,US,1904,18.18
+31172,usda-ndb-import,2017-03-09T10:35:24Z,Maple Almond Granola,US,1904,14.55
+31233,usda-ndb-import,2017-03-09T10:35:17Z,35% Fruit And Fiber Muesli,US,1523,4.55
+31288,usda-ndb-import,2017-03-09T10:35:21Z,Rebel Crunch Granola,US,1720,8.93
+32070,usda-ndb-import,2017-03-09T10:35:20Z,Organic Mixed Vegetable Spirals,US,1490,1.75
+32117,usda-ndb-import,2017-03-09T10:34:27Z,Tricolor Tortellini,US,1611,9.23
+32384,usda-ndb-import,2017-03-09T10:35:31Z,Organic Couscous,US,1582,
+32858,usda-ndb-import,2017-03-09T10:35:31Z,Organic Spaghetti,US,1569,2.68
+32896,usda-ndb-import,2017-03-09T10:35:34Z,Orzo Rosa Marina,US,1443,1.72
+33015,usda-ndb-import,2017-03-09T10:35:17Z,Organic Refined Spelt Flour,US,1393,1.67
+33060,usda-ndb-import,2017-03-09T10:34:28Z,10-Grain Pancake Mix,US,1297,1.72
+33084,usda-ndb-import,2017-03-09T10:35:09Z,Fine Sea Salt,US,,
+33268,usda-ndb-import,2017-03-09T10:34:13Z,"Sweeteners, Organic Fair Trade Sugar",US,1569,
+33503,usda-ndb-import,2017-03-09T10:34:42Z,Organic Refined Unbleached White Flour,US,1536,
+33572,usda-ndb-import,2017-03-10T09:34:48Z,Organic Whole Brown Rice Flour,US,1891,3.23
+33589,usda-ndb-import,2017-03-10T09:34:48Z,Organic Whole Spelt Flour,US,1356,2.94
+33626,usda-ndb-import,2017-03-09T10:35:11Z,Organic Whole Rye Flour,US,1393,1.67
+33640,usda-ndb-import,2017-03-09T09:07:04Z,Granola Cranberry And Acai,US,1824,10.91
+33657,usda-ndb-import,2017-03-09T10:35:31Z,Organic Medium Whole Wheat Flour,US,1552,1.43
+33664,usda-ndb-import,2017-03-09T10:35:15Z,Organic Soft Whole Wheat Pastry Flour,US,1644,1.79
+33688,usda-ndb-import,2017-03-09T09:07:04Z,"Peanuts, Mixed Nuts",US,2389,42.86
+34135,usda-ndb-import,2017-03-09T09:07:42Z,Organic Large Raw Whole Cashews,US,2648,50
+34142,usda-ndb-import,2017-03-09T10:35:21Z,Organic Brown Sesame Seeds,US,2439,50
+34241,usda-ndb-import,2017-03-09T09:07:41Z,Organic White Sesame Seeds,US,2439,55.56
+34265,usda-ndb-import,2017-03-09T10:35:25Z,Almonds Hickory-Smoked,US,2690,57.14
+34425,usda-ndb-import,2017-03-09T10:34:38Z,"Foods, Spanish Peanuts",US,2389,50
+34432,usda-ndb-import,2017-03-09T10:34:38Z,"Foods, Honey Roasted Nut Mix",US,2389,46.43
+34449,usda-ndb-import,2017-03-09T09:07:41Z,Roasted Salted Sunflower Seeds,US,2766,57.14
+34456,usda-ndb-import,2017-03-09T10:35:33Z,"Foods, Deluxe Nut Mix",US,2540,57.14
+34470,usda-ndb-import,2017-03-09T10:35:24Z,"Foods, Honey Roast Nuts & Fruit Mix",US,2176,28
+34548,usda-ndb-import,2017-03-09T10:34:38Z,Organic Raw Walnuts,US,2678,64
+34562,usda-ndb-import,2017-03-09T10:35:06Z,Organic Raw Sunflower Seeds,US,2218,42.42
+34623,usda-ndb-import,2017-03-09T10:34:11Z,Organic Trail Mix,US,1812,26.67
+34715,usda-ndb-import,2017-03-09T10:35:15Z,Organic Pecan Halves,US,2946,70.42
+34784,usda-ndb-import,2017-03-10T09:34:45Z,Unsalted Dry Roasted Almonds,US,2791,56.67
+34791,usda-ndb-import,2017-03-09T10:35:20Z,Organic Raw Pumpkin Seeds,US,2510,46.67
+35071,usda-ndb-import,2017-03-10T09:34:44Z,Organic Extra Virgin Olive Oil,US,3586,100
+35170,usda-ndb-import,2017-03-10T09:34:48Z,Liquid Aminos,US,,
+35279,usda-ndb-import,2017-03-10T09:34:45Z,Organic Canola Oil Refined,US,3586,100
+35286,usda-ndb-import,2017-03-10T09:34:47Z,Organic Shoyu,US,234,
+35293,usda-ndb-import,2017-03-10T09:34:45Z,Organic Wheat-Free Tamari,US,234,
+35323,usda-ndb-import,2017-03-10T09:34:30Z,Organic Grade B Maple Syrup,US,1393,
+35583,usda-ndb-import,2017-03-09T10:35:14Z,Curry Lentil Soup Mix,US,1289,1.92
+35590,usda-ndb-import,2017-03-09T10:35:24Z,Split Pea Soup Mix,US,1314,1.43
+35613,usda-ndb-import,2017-03-09T10:35:14Z,Whole Wheat 'N Honey Fig Bars,US,1255,6.67
+36153,usda-ndb-import,2017-03-09T10:34:13Z,Chocolate Nut Crunch,US,1954,26.67
+36252,tacinte,2015-01-25T21:35:01Z,Lion Peanut x2,"France,États-Unis",,
+36269,usda-ndb-import,2017-03-09T10:34:11Z,Milk Chocolate Peanut Butter Malt Balls,US,2197,27.5
+36276,usda-ndb-import,2017-03-09T10:34:38Z,Organic Tamari Pumpkin Seed,US,2092,41.18
+36986,usda-ndb-import,2017-03-09T10:34:09Z,Yogurt Pretzels,US,2092,20
+38058,usda-ndb-import,2017-03-09T10:34:11Z,Organic Kamut Flakes,US,941,1.25
+38065,usda-ndb-import,2017-03-09T10:35:20Z,Regular Rolled Oats,US,1611,7.69
+38072,usda-ndb-import,2017-03-09T10:35:28Z,Quick Rolled Oats,US,1611,7.69
+38096,usda-ndb-import,2017-03-09T10:35:11Z,Organic Bulgur,US,1464,1.7
+38119,usda-ndb-import,2017-03-09T10:34:38Z,Organic Toasted Buckwheat Groats,US,1427,2.44
+38133,usda-ndb-import,2017-03-09T10:34:10Z,Organic Rolled Barley Flakes,US,1197,1.79
+38317,usda-ndb-import,2017-03-09T10:34:13Z,Multigrain Cereal Flakes,US,1540,2.63
+38324,usda-ndb-import,2017-03-09T10:34:28Z,8-Grain Wheat Free Cereal,US,1569,6.25
+38348,usda-ndb-import,2017-03-09T10:34:12Z,Swiss-Style Muesli,US,1749,16.36
+38508,usda-ndb-import,2017-03-09T10:35:26Z,Organic Hulless Barley,US,1548,2.17
+38522,usda-ndb-import,2017-03-09T10:35:19Z,Organic Millet,US,1569,3.12
+38539,usda-ndb-import,2017-03-09T10:34:13Z,Organic Popcorn,US,1506,4
+38584,usda-ndb-import,2017-03-09T10:35:30Z,Organic Soft White Wheat Berries,US,1423,2.13
+38591,usda-ndb-import,2017-03-09T10:35:12Z,Organic Pearled Barley,US,1506,2
+38607,usda-ndb-import,2017-03-09T10:35:21Z,Organic Wheat Bran,US,837,3.33
+38621,usda-ndb-import,2017-03-09T14:33:16Z,Organic Raw Buckwheat Groats,US,1393,3.33
+38652,usda-ndb-import,2017-03-09T10:34:14Z,Organic Oat Bran,US,1661,6.9
+38669,usda-ndb-import,2017-03-09T10:34:27Z,Organic Thick Cut Rolled Oats,US,1527,7.69
+38690,usda-ndb-import,2017-03-09T10:34:38Z,Organic Regular Rolled Oats,US,1527,7.69
+38706,usda-ndb-import,2017-03-09T10:34:12Z,Organic Rolled Rye Flakes,US,1674,2
+38713,usda-ndb-import,2017-03-09T10:35:25Z,Organic Steel-Cut Oats,US,1778,7.5
+38744,usda-ndb-import,2017-03-09T10:35:19Z,Organic Spelt Berries,US,1184,2.17
+38973,usda-ndb-import,2017-03-09T10:35:28Z,Organic Quick Rolled Oats,US,1883,7.5
+39093,usda-ndb-import,2017-03-09T10:35:29Z,Countrywild Rice Blend,US,1393,3.33
+39208,usda-ndb-import,2017-03-10T09:34:48Z,Organic Arboria Rice,US,1490,2.22
+39215,usda-ndb-import,2017-03-09T10:34:12Z,Lundberg Organic Golden Rose Medium Brown Rice,US,1314,1.96
+39259,tacinte,2015-01-25T21:36:13Z,Twix x2,France,,
+39291,usda-ndb-import,2017-03-09T10:34:13Z,Lundberg Olde World Pilaf,US,1423,3.33
+39529,teolemon,2015-01-01T21:17:31Z,Pack de 2 Twix,"France, US",1481,4.17
+39536,usda-ndb-import,2017-03-09T10:34:12Z,Organic Short Grain Brown Rice,US,1393,2.94
+39543,usda-ndb-import,2017-03-09T10:35:20Z,Organic Sweet Brown Rice,US,1477,0.98
+39550,usda-ndb-import,2017-03-10T09:34:48Z,Organic California White Sushi Rice,US,1490,
+39567,usda-ndb-import,2017-03-09T10:34:10Z,Organic Harvest Pilaf,US,1674,2.22
+39628,usda-ndb-import,2017-03-09T10:35:21Z,Organic Wild Rice,US,1452,12
+41355,usda-ndb-import,2017-03-10T09:34:32Z,Vanilla Extract,US,1255,
+43083,usda-ndb-import,2017-03-09T10:34:10Z,Organic Flax Seed,US,2092,35.71
+43595,usda-ndb-import,2017-03-09T09:07:04Z,Cranberries,US,1255,0
+45292,usda-ndb-import,2017-03-09T14:32:38Z,Turkish Apricots,US,1046,0
+45308,usda-ndb-import,2017-03-09T09:07:03Z,Banana Chips Sweetened,US,2243,28.57
+45346,usda-ndb-import,2017-03-09T14:32:38Z,Granola Honey Almonds,US,1674,14.55
+45421,usda-ndb-import,2017-03-09T14:32:37Z,Chili Mango,US,1569,2.5
+45483,usda-ndb-import,2017-03-09T09:07:04Z,Milk Chocolate Pretzels,US,1883,22.5
+45599,usda-ndb-import,2017-03-09T09:07:03Z,Peanuts,US,1941,17.86
+50913,canieatthis-app,2016-12-31T12:18:27Z,"M&S Extrenely Chocolatey Milk, Dark & White Chocolate Biscuits",en:GB,2179,
+56434,canieatthis-app,2016-07-08T19:16:12Z,diet lemonade by Sainsbury's,en:GB,5,
+58001,usda-ndb-import,2017-03-09T10:35:34Z,Organic Salted Pistachios,US,2540,46.43
+58018,usda-ndb-import,2017-03-09T10:34:13Z,"Organic Dried Turkish Apricots, Bin # 5801",US,941,
+58056,usda-ndb-import,2017-03-09T10:34:28Z,Organic Unsalted Pistachios,US,2540,46.43
+58070,usda-ndb-import,2017-03-09T10:34:09Z,Organic Medjool Dates,US,1218,0.1
+58131,usda-ndb-import,2017-03-09T10:35:21Z,Organic Pitted Prunes,US,1464,
+58148,usda-ndb-import,2017-03-09T10:34:10Z,Organic Pitted Deglet Dates,US,1255,
+58179,usda-ndb-import,2017-03-09T10:34:13Z,Sweetened Dried Cranberries,US,1255,
+58223,usda-ndb-import,2017-03-09T10:34:09Z,Organic Zante Currants,US,1046,
+58230,usda-ndb-import,2017-03-09T10:35:17Z,Organic Thompson Raisins,US,1360,
+58247,usda-ndb-import,2017-03-09T10:35:19Z,Organic Unrefined Extra Virgin Coconut Oil,US,3586,100
+58285,usda-ndb-import,2017-03-09T10:34:11Z,Organic Brown Basmati Rice,US,1452,4.08
+58292,usda-ndb-import,2017-03-09T10:34:10Z,Organic White Basmati Rice,US,1506,1
+58360,usda-ndb-import,2017-03-09T10:35:30Z,Organic Unrefined Mascobado Sugar,US,1569,
+58469,usda-ndb-import,2017-03-09T10:35:19Z,Organic U.S. Peanuts,US,2377,48.65
+58780,usda-ndb-import,2017-03-09T10:35:21Z,Almonds,US,2510,50
+58803,usda-ndb-import,2017-03-09T10:34:21Z,Pecan Halves,US,2946,70.42
+58858,usda-ndb-import,2017-03-09T10:35:13Z,Organic Whole Cashews,US,2402,47.06
+58964,usda-ndb-import,2017-03-09T10:35:19Z,Organic Pearl Quinoa,US,1778,6.25
+69601,usda-ndb-import,2017-03-09T10:35:35Z,Fresh Organic Carrots,US,159,0
+290616,b7,2017-01-16T22:32:58Z,Salade Cesar,Canada,1210,12
+394710,b7,2017-01-15T16:22:50Z,Danoises à la cannelle roulées,Canada,1520,14.4
+673358,canieatthis-app,2016-12-30T17:07:29Z,Veggie Colin the Caterpillar,en:GB,1329,
+1071894,bcatelin,2014-08-30T15:07:32Z,Flute,United Kingdom,,
+1471762,canieatthis-app,2016-08-03T18:00:18Z,still Scottish water,en:GB,,
+1798180,canieatthis-app,2016-07-10T17:26:41Z,Fairtrade Ground Cinnamon,en:GB,,
+1938067,b7,2017-01-15T17:32:08Z,Chaussons tressés aux pommes,Canada,1090,10.7
+4302544,b7,2017-03-02T14:28:16Z,Pain Burger Artisan,Canada,1160,1.11
+5200016,sigoise,2015-09-02T09:37:37Z,lentilles vertes ,France,,
+7020254,teolemon,2015-01-01T22:09:53Z,Root Beer,France,215,0
+7730009,openfoodfacts-contributors,2016-05-09T15:07:12Z,Biscuits sablés fourrage au cacao,France,,
+8237798,b7,2017-04-11T20:41:47Z,Quiche Lorraine,Canada,478,6.79
+8240095,openfoodfacts-contributors,2017-01-13T21:24:33Z,Pâté au poulet,Canada,751,10.2
+9336247,tacite,2016-11-13T09:37:57Z,"Gotta-have grape, seriously strawberry flavor",France,1667,0
+10068175,kiliweb,2017-07-03T21:39:03Z,Thé noir aromatisé violette et fleurs,France,17,0.1
+10090206,sebleouf,2013-06-11T19:03:51Z,Thé de Noël aromatisé orange-cannelle,France,,
+10127735,sebleouf,2016-05-07T10:25:04Z,Sirops pour ganache macarons,France,,
+10179413,kiliweb,2017-09-06T14:20:48Z,Preparation mug cake chocolat-caramel au beurre salé,France,1632,7
+10187319,kiliweb,2017-02-17T10:05:54Z,Mini Confettis,France,1753,
+10207260,kiliweb,2017-03-22T17:17:11Z,Praliné Amande Et Noisette,France,2406,
+10463031,openfoodfacts-contributors,2017-09-02T14:57:00Z,Multigrain Ciabatta Buns,en:CA,,
+12345878,tacinte,2016-04-22T22:42:36Z,เล็บมือนาง (ตีนไก่ ),United Kingdom,,
+13000004,openfoodfacts-contributors,2017-01-14T22:13:19Z,Kochspeck,en:CH,,
+20004552,agamitsudo,2016-09-17T08:09:01Z,Côtes du Rhône Villages 2014,France,,
+20039127,usda-ndb-import,2017-03-10T09:36:08Z,Butter Croissants,US,1523,16.88
+20039707,usda-ndb-import,2017-03-10T09:36:08Z,Wild Blueberry Muffins,US,1548,15.74
+20042509,usda-ndb-import,2017-03-10T08:49:39Z,Bolillos,US,1159,4.26
+20043070,usda-ndb-import,2017-03-10T08:49:40Z,Biscuit,US,1452,20
+20043087,usda-ndb-import,2017-03-10T08:49:40Z,Biscuit,US,1339,16
+20043124,usda-ndb-import,2017-03-10T08:18:22Z,Oatmeal Raisin Cookie,US,1778,17.7
+20043131,usda-ndb-import,2017-03-10T08:10:34Z,Sliced Plain Bagel,US,1527,1.18
+20044015,usda-ndb-import,2017-03-10T08:18:22Z,Scone,US,1920,25.88
+20044480,usda-ndb-import,2017-03-10T08:10:34Z,Belgian Vanilla Waffle,US,2067,22.35
+20045616,usda-ndb-import,2017-03-09T16:10:10Z,Seasonal Cookie Platter,US,1866,21.43
+20045791,usda-ndb-import,2017-03-10T08:39:36Z,Muffin,US,1749,21.76
+20045807,usda-ndb-import,2017-03-10T08:39:36Z,Muffin,US,1477,15.88
+20046255,usda-ndb-import,2017-03-10T08:10:38Z,Freshly Baked Italian Loaf,US,941,0
+20046576,usda-ndb-import,2017-03-09T20:50:56Z,Freshly Baked Apple Pie,US,1155,13.82
+20047108,usda-ndb-import,2017-03-09T15:25:06Z,Snickerdoodle Cookies,US,1866,21.43
+20047818,usda-ndb-import,2017-03-09T20:50:56Z,Freshly Baked In Store Cherry Turnover,US,1674,22.35
+20047825,usda-ndb-import,2017-03-09T20:50:57Z,Apple Turnover,US,1623,22.35
+20048174,usda-ndb-import,2017-03-09T20:50:58Z,Pineapple Coconut Muffins,US,1665,18.52
+20048358,usda-ndb-import,2017-03-09T20:50:56Z,Assorted Strudel Bite,US,1569,21.43
+20048402,usda-ndb-import,2017-03-09T20:50:57Z,Freshly Baked Chocolat Croissant,US,1812,23.33
+20048556,usda-ndb-import,2017-03-09T16:43:20Z,Cornbread,US,1632,18.64
+20049010,usda-ndb-import,2017-03-09T16:43:20Z,La Brea Bakery Ciabatta Loaf Freshly Baked In Store,US,1176,3.51
+20364373,openfoodfacts-contributors,2014-03-04T22:02:53Z,Zumo de Piña,en:ES,,
+20424640,twoflower,2017-03-14T21:30:29Z,Belgische Pralinen,Deutschland,2257,33.3
+2044503,usda-ndb-import,2017-03-10T08:10:34Z,Belgian Choc Chip Waffle,US,2117,22.35
+2046231,usda-ndb-import,2017-03-10T08:18:24Z,Chocolate Scone,US,2912,39.29
+24089517,canieatthis-app,2016-08-06T14:48:08Z,hrenovka za pečenje na žaru hofer,en:SI,,
+27533024,tacinte,2014-12-16T12:29:19Z,Luxury Christmas Pudding,United Kingdom,1284,7
+27533048,tacinte,2014-12-16T12:28:35Z,Luxury Christmas Pudding,United Kingdom,1284,7
+30053014,date-limite-app,2015-04-27T16:51:53Z,Bonbon Vichy,en:FR,,
+40144078,openfoodfacts-contributors,2017-03-14T15:05:54Z,M&m's peanut butter,en:FR,,
+40608754,andre,2012-08-15T09:48:28Z,"Pepsi, Nouveau goût !",France,177,0
+50157846,teolemon,2016-12-27T14:08:50Z,,France,1215,23.8
+50413201,usda-ndb-import,2017-03-09T15:25:07Z,Naturally Flavored Beverage Enhancer With Other Natural Flavors,US,0,0
+50892,syefulislam,2017-06-03T10:01:48Z,,en:BD,,
+50985098,canieatthis-app,2016-08-25T08:06:38Z,HALLS Extra Strong,en:GB,1640,
+54491472,canieatthis-app,2016-07-07T12:34:16Z,Coca Cola,en:GB,180,
+54491496,canieatthis-app,2016-07-25T13:48:30Z,Diet Coke,United Kingdom,1,
+54492790,kiliweb,2017-06-26T11:47:51Z,Blle Pet 50CL Coca Cola Cherry,France,180,0.1
+69016165,date-limite-app,2017-01-27T17:52:15Z,BoFrost Nudelpfanne,en:FR,,
+69062063,kiliweb,2017-06-15T17:31:53Z,Crêpes jambon fromage,France,678,6.6
+69105241,date-limite-app,2016-06-26T09:31:58Z,,en:DE,,
+69161025,kiliweb,2017-03-22T19:59:36Z,Tarte Poireaux Et Lardons,France,1079,
+75001629,canieatthis-app,2016-09-17T19:15:09Z,Sol,en:GB,,
+758,tacinte,2014-09-01T14:48:04Z,Cauliflower,United Kingdom,144,0.9
+80007838,canieatthis-app,2016-08-22T13:06:50Z,Acqua oligominerale San benedetto frizzante,en:IT,,
+80135876,canieatthis-app,2016-11-21T12:05:48Z,Nutella,en:RO,2278,
+84154071,javichu,2012-10-27T17:41:57Z,Salsa de mostaza,España,320,3.5
+87111910,kiliweb,2017-05-02T19:37:54Z,Marmite Original Pate A Tartiner 125G,France,1046,1
+87177756,tacite,2015-06-06T10:28:06Z,7Up,France,177,0
+93718738,canieatthis-app,2016-11-15T12:35:39Z,Horseradish cream,en:AU,,
+10,jeanbono,2016-10-20T07:19:01Z,Madeleines nature,France,1900,23
+105000011,usda-ndb-import,2017-03-09T10:28:50Z,Chamomile Herbal Tea,US,0,0
+105000042,usda-ndb-import,2017-03-09T10:28:51Z,"Herbal Tea, Peppermint",US,0,0
+105000059,usda-ndb-import,2017-03-09T10:28:51Z,Linden Flowers Tea,US,0,0
+105000073,usda-ndb-import,2017-03-09T21:56:11Z,"Herbal Tea, Hibiscus",US,1117,0
+105000196,usda-ndb-import,2017-03-09T21:56:11Z,Apple & Cinnamon Tea,US,0,0
+105000219,usda-ndb-import,2017-03-09T10:28:50Z,Green Tea,US,0,0
+105000318,usda-ndb-import,2017-03-09T10:28:51Z,Shave Grass Herbal Tea,US,0,0
+105000356,usda-ndb-import,2017-03-09T10:28:51Z,"Herbal Tea, Chamomile * Mint",US,0,0
+105000363,usda-ndb-import,2017-03-09T10:28:51Z,Artichoke Herbal Tea,US,0,0
+105000417,usda-ndb-import,2017-03-09T10:28:51Z,Dieter's Herbal Tea,US,0,0
+105200923,usda-ndb-import,2017-03-09T10:28:50Z,"Kidneytea, Herbal Tea",US,0,0
+105200961,usda-ndb-import,2017-03-09T10:28:50Z,Bronchtea,US,0,0
+111048403,usda-ndb-import,2017-03-09T09:41:13Z,100% Pure Canola Oil,US,3586,100
+111301201,usda-ndb-import,2017-03-09T12:10:54Z,Original Buttery Spread,US,2690,71.43
+111301263,usda-ndb-import,2017-03-09T09:49:30Z,"Buttery Spread, With Flaxseed Oil",US,2389,57.14
+127534587,usda-ndb-import,2017-03-09T09:43:17Z,Lithuanian Rye Bread,US,954,2.63
+1373,tacinte,2014-10-08T17:14:38Z,Spring Onions,United Kingdom,,
+140000083,date-limite-app,2016-02-04T18:11:33Z,,en:PT,,
+159479269,usda-ndb-import,2017-03-09T16:01:55Z,Magic Stars Chocolates,US,2330,34.7
+159487776,usda-ndb-import,2017-03-09T16:01:56Z,Magic Stars Chocolates,US,2330,34.7
+168175589,usda-ndb-import,2017-03-09T15:58:26Z,"Digestives Cheesecake, Lemon",US,2130,25.95
+168178238,usda-ndb-import,2017-03-09T15:58:26Z,"Mini Gingerbread Men, Milk Chocolate",US,2013,20
+1816,usda-ndb-import,2017-03-09T11:37:55Z,Organic Flourless Sprouted 7-Grain Bread,US,983,2.94
+197571406,usda-ndb-import,2017-03-09T15:58:27Z,Puppodums,US,1159,0.3
+204286484,allfitnessfactory-de,2016-12-30T12:12:46Z,Mehrkomponeneten Protein 90 C6 Haselnuß,Deutschland,1533,1
+204286644,openfoodfacts-contributors,2015-01-27T17:02:50Z,Mehrkomponeneten Protein 90 C6 Schoko,Deutschland,1533,1
+208066259,usda-ndb-import,2017-03-09T16:01:56Z,Black Tea,US,4,0
+2220,usda-ndb-import,2017-03-09T09:43:16Z,Monterey Jack,US,1494,28.57
+228000080,date-limite-app,2017-03-05T17:40:33Z,Terrine de campagne,en:FR,,
+236555909,usda-ndb-import,2017-03-09T16:43:21Z,"Bakers Best, White Bread",US,983,1.47
+236598784,usda-ndb-import,2017-03-09T16:43:21Z,"Bakers Best, Rye Bread",US,1071,2.56
+250632969,allfitnessfactory-de,2017-01-13T07:30:12Z,Mehrkomponeneten Protein 90 C6 Banane,Deutschland,1533,1
+2523,tacinte,2016-07-29T19:13:23Z,,en:GB,,
+281621505,usda-ndb-import,2017-03-09T16:01:47Z,"Warner Hudson, Whisky Chocolates",US,1879,18
+281756504,usda-ndb-import,2017-03-09T16:01:48Z,"Piasten, Chocolate Assortment",US,2029,26.25
+2929,tacinte,2015-02-20T19:30:17Z,Flat Leaf Parsley,United Kingdom,,
+30,beniben,2016-12-15T22:15:44Z,Cakes Raisins,France,1768,19
+3001,date-limite-app,2016-05-25T20:48:14Z,,en:FR,,
+309444901,usda-ndb-import,2017-03-09T09:33:36Z,Sweet 'N' Hot Salad Peppers,US,598,0
+309512075,usda-ndb-import,2017-03-09T20:36:37Z,"Big Papa's, Southern Sauce",US,1046,0
+31,beniben,2016-07-08T21:55:54Z,Cakes aux Fruits,France,1670,15
+3100,openfoodfacts-contributors,2014-11-04T16:40:56Z,Chair à saucisse,France,,
+360053005,usda-ndb-import,2017-03-09T10:34:44Z,"Between!, Dental Gum, Natural Cool Mint",US,837,0
+360054002,usda-ndb-import,2017-03-09T14:33:51Z,"Eco-Dent, Between!, Sugar Free Dental Gum, Cinnamon",US,837,0
+417011002,usda-ndb-import,2017-03-09T16:00:08Z,Knusperflakes Mit Knusprigen Cornflakes,US,2209,28
+417012009,usda-ndb-import,2017-03-09T16:00:08Z,"Rum Trauben Nuss, Milk Chocolate Wih Rum Raisins & Nuts",US,2142,28
+417296003,usda-ndb-import,2017-03-09T16:00:09Z,Milk Chocolate With Caramelized Almonds,US,2226,31.2
+433070274,usda-ndb-import,2017-03-09T15:58:16Z,"Funsch, High Quality Marzipan",US,1929,21.4
+433821494,usda-ndb-import,2017-03-10T08:18:25Z,Oatmeal Raisin Cookies,US,1552,21.43
+433821500,usda-ndb-import,2017-03-10T08:18:25Z,The Best Peanut Butter Cookies,US,1703,21.43
+433906023,usda-ndb-import,2017-03-09T15:25:07Z,Best Sweet-Potato Cookies,US,1623,17.65
+433906030,usda-ndb-import,2017-03-09T15:25:07Z,Best Ginger Snap Cookies,US,1623,17.65
+450193000,usda-ndb-import,2017-03-09T09:47:41Z,"Ice Cream, Vanilla",US,883,11.27
+450193031,usda-ndb-import,2017-03-09T10:49:03Z,"Ice Cream, Butter Pecan",US,1000,15.49
+460938714,allfitnessfactory-de,2016-12-30T11:39:50Z,100% Soja Protein Haselnuss,Deutschland,1590,0.5
+470322800,allfitnessfactory-de,2017-01-13T10:22:12Z,Whey Protein aus Molke Vanilla,Deutschland,1644,4.6
+50,openfoodfacts-contributors,2016-11-30T21:30:44Z,Financiers aux Amandes,France,1868,23
+501050603,allfitnessfactory-de,2017-01-13T10:12:31Z,Whey Protein aus Molke 1000 Gramm Vanilla,Deutschland,1644,4.6
+51,beniben,2016-12-01T19:59:24Z,Fondants Citron,France,1896,24
+522061596,usda-ndb-import,2017-03-09T15:58:27Z,Salted Sticks & Salted Pretzels,US,1548,3.67
+526938306,allfitnessfactory-de,2017-01-13T10:03:47Z,Whey Protein aus Molke 500 Gramm Vanilla,Deutschland,1644,4.6
+527000057,date-limite-app,2017-04-16T04:34:57Z,Kiehls - Cream #gel,en:FR,,
+539003206,usda-ndb-import,2017-03-09T16:01:48Z,"Williams, Liquor Chocolate With Williams Pear",US,1954,23
+5487,openfoodfacts-contributors,2014-07-12T19:37:43Z,Sea Salt Potato Chips,United States,2243,32.14
+606009841,kiliweb,2017-02-01T11:13:57Z,Beignets framboises,France,1272,
+609124107,usda-ndb-import,2017-03-09T15:25:07Z,Solid Milk Chocolate,US,2318,32.14
+609133703,usda-ndb-import,2017-03-09T16:10:10Z,"Madelaine Chocolate Company, Chocolate",US,2301,32.5
+609231508,usda-ndb-import,2017-03-10T08:10:38Z,Milk Chocolate Rose,US,2389,33.33
+609340767,usda-ndb-import,2017-03-10T08:10:38Z,Solid Dark Chocolate,US,2197,32.5
+609346752,usda-ndb-import,2017-03-10T08:10:38Z,White Chocolate,US,2406,40
+609406104,usda-ndb-import,2017-03-09T15:03:38Z,"The Madelaine Chocolate Company, Solid Milk Chocolate Cigars",US,2238,32.56
+609407101,usda-ndb-import,2017-03-09T15:03:39Z,"Madelaine Chocolate, It's A Girl! Solid Milk Chocolate Cigars, Milk Chocolate",US,2238,32.56
+609900114,usda-ndb-import,2017-03-09T14:54:10Z,"The Madelaine Chocolate Company, All Natural Dark Chocolate Gift Stick",US,2314,39.47
+609941001,usda-ndb-import,2017-03-09T15:03:39Z,"The Madelaine Chocolate Company, Solid Milk Chocolate",US,2301,32.5
+609941049,usda-ndb-import,2017-03-09T15:03:39Z,"The Madelaine Chocolate Company, Solid Dark Chocolate",US,2197,32.5
+609941759,usda-ndb-import,2017-03-09T14:54:10Z,Solid Milk Chocolate,US,2326,33.33
+609941766,usda-ndb-import,2017-03-09T14:54:10Z,"The Madelaine Chocolate Company, Solid Milk Chocolate",US,2326,33.33
+609962037,usda-ndb-import,2017-03-09T15:40:00Z,"The Madelaine Chocolate Comapny, Solid Milk Chocolate",US,2314,31.58
+609962044,usda-ndb-import,2017-03-09T15:40:01Z,"The Madelaine Chocolate Company, Solid Dark Chocolate",US,2201,31.58
+609962082,usda-ndb-import,2017-03-10T09:56:37Z,Solid Dark Chocolate,US,2201,31.58
+609965007,usda-ndb-import,2017-03-10T09:56:37Z,Milk Chocolate Malt Balls,US,2197,27.5
+609983001,usda-ndb-import,2017-03-09T14:54:10Z,"The Madelaine Chocolate Company, Solid Milk Chocolate",US,2326,33.33
+609983032,usda-ndb-import,2017-03-09T14:54:10Z,"The Madelaine Chocolate Company, Solid Dark Chocolate",US,2209,33.33
+609989010,usda-ndb-import,2017-03-09T14:54:10Z,"The Madelaine Chocolate Company, Solid Milk Chocolate Bunnies",US,2272,31.43
+609989027,usda-ndb-import,2017-03-09T15:40:00Z,"The Madelaine Chocolate Company, Solid Milk Chocolate Chicks",US,2314,31.58
+6163,usda-ndb-import,2017-03-09T13:14:21Z,Cornichons,US,75,0
+630135899,usda-ndb-import,2017-03-10T10:40:02Z,"Too Tarts, Smartchoice, Sugar Free Spray Candy, Blu Bewwy",US,205,0
+630138791,usda-ndb-import,2017-03-09T15:25:08Z,Sour & Fruity Candy,US,745,0
+651003214,usda-ndb-import,2017-03-09T10:59:40Z,Romaine Hearts,US,75,0
+651041001,usda-ndb-import,2017-03-09T10:59:40Z,Romaine,US,75,0
+651041025,usda-ndb-import,2017-03-09T10:59:41Z,Green Leaf Lettuce,US,75,0
+651213019,usda-ndb-import,2017-03-10T08:18:25Z,Fresh Spinach,US,100,0
+651213026,usda-ndb-import,2017-03-09T20:11:19Z,Cooking Spinach,US,100,0
+651319018,usda-ndb-import,2017-03-09T11:04:55Z,Quick Cook Sprout Halves,US,176,0
+651511016,usda-ndb-import,2017-03-09T20:11:19Z,Celery,US,59,0
+651813103,usda-ndb-import,2017-03-09T11:04:56Z,Season & Steam Kalettes (Kale Sprouts),US,222,0
+6666,openfoodfacts-contributors,2016-02-22T11:43:49Z,,en:FR,,
+698309041,usda-ndb-import,2017-03-09T16:09:52Z,"Feletti, Pralines Candy, Milk Chocolate",US,2209,30.56
+698465815,usda-ndb-import,2017-03-09T16:00:35Z,"Feletti, Milk Chocolate Pralines",US,2264,32.43
+729181042,usda-ndb-import,2017-03-09T14:52:18Z,"Taami Elite, Milk Choolate Bar, Puffed Rice And Nougat-Caramel Cream",US,2125,27.5
+764001770,usda-ndb-import,2017-03-09T15:03:39Z,"Ryan's, Juice Melange, Fuji Pom Blend",US,192,0
+764001787,usda-ndb-import,2017-03-09T16:10:10Z,"Ryan's, Lemonade",US,226,0
+764003033,usda-ndb-import,2017-03-09T14:54:11Z,"Ryan's, Spiced Apple Cider",US,192,0
+764003040,usda-ndb-import,2017-03-09T15:40:01Z,"Ryan's, Pink Lady, Apple Cider",US,192,0
+764114944,usda-ndb-import,2017-03-09T16:10:10Z,"Ryan's, Organic Juice, Apple",US,192,0
+764708617,usda-ndb-import,2017-03-09T15:03:39Z,"Ryan's, Opal Blend Melange, Apple Cider",US,192,0
+7658,kyzh,2015-03-03T13:06:13Z,,en:GB,,
+790100027,usda-ndb-import,2017-03-09T16:44:45Z,"Fruit Strip Snacks, Mango, Pineapple",US,1343,0
+790100058,usda-ndb-import,2017-03-09T16:44:46Z,Fruit Twist Snacks Blueberry Pomec-Ranate,US,1343,0
+790105282,usda-ndb-import,2017-03-09T15:40:01Z,"Healthy Food Brands, A&W, Soda Bottles Gummy Candies With Real A&W Root Beer",US,1046,0
+790110002,usda-ndb-import,2017-03-09T16:10:10Z,"Emojeez, Gummies, Assorted Fruits",US,1151,0
+790110019,usda-ndb-import,2017-03-09T15:03:39Z,"Emojeez, Gummies Candy, Fruit",US,1151,0
+790110026,usda-ndb-import,2017-03-09T16:10:10Z,"Emojeez, Fruit Flavored Gummies, Green Apple, Orange, Fruit Punch, Lemon, Cherry Blue Raspberry",US,1151,0
+790110033,usda-ndb-import,2017-03-09T15:25:08Z,Gummies,US,1151,0
+790110040,usda-ndb-import,2017-03-09T15:40:01Z,"Emojeez, Fruit Gummies, Assorted",US,1151,0
+790110057,usda-ndb-import,2017-03-09T14:54:11Z,"Emojeez, Gummies Candy, Fruit",US,1151,0
+790200123,usda-ndb-import,2017-03-09T13:33:39Z,"Lite, Fine Chocolate Candy Bar, Dark Chocolate",US,1674,32
+790310013,malikele,2014-01-02T17:03:07Z,Sour Fruit Gummies,Germany,1360,0
+790310020,malikele,2014-01-02T11:21:51Z,Jelly Fish,Germany,586,0
+790310044,malikele,2014-01-02T16:48:23Z,Color bombe,Usa,,
+790350040,usda-ndb-import,2017-03-09T16:10:10Z,"Hfb Candy, Candy Crush Color Bombs",US,1883,17.5
+790350187,usda-ndb-import,2017-03-09T16:10:11Z,"Hfb Candy, Jelly Fish Candy",US,1464,0
+790350385,usda-ndb-import,2017-03-09T16:44:48Z,"Angry Birds, Fruit Snack, Cherry, Lemon, Raspberry, Apple, Grape, Strawberry",US,1197,0
+790400004,usda-ndb-import,2017-03-09T16:44:47Z,Freeze-Dried Apple Slices,US,1494,0
+790400028,usda-ndb-import,2017-03-09T16:44:51Z,Freeze-Dried Banana & Strawberry Slices,US,1343,0
+790400042,usda-ndb-import,2017-03-09T16:44:47Z,Freeze-Dried Mango Slices,US,1494,1.79
+790400066,usda-ndb-import,2017-03-09T16:44:45Z,Freeze-Dried Grapes,US,1477,0
+790400301,usda-ndb-import,2017-03-09T16:44:47Z,Freeze-Dried Apple Slices,US,1464,0
+790400325,usda-ndb-import,2017-03-09T16:44:48Z,"Freeze-Dried Fruit Slices, Banana & Strawberry",US,1464,0
+790400349,usda-ndb-import,2017-03-09T16:44:47Z,Freeze-Dried Mango Slices,US,1464,0
+790400363,usda-ndb-import,2017-03-09T16:44:48Z,Freeze-Dried Grapes,US,1569,0
+790410003,usda-ndb-import,2017-03-09T10:39:33Z,"Wholesome & Delicious Dried Cranberries, Concord Grape",US,1360,0
+790410010,usda-ndb-import,2017-03-09T16:44:51Z,"Dried Cranberries, Pomegranate Flavor",US,1360,0
+790410027,usda-ndb-import,2017-03-09T16:44:48Z,"Dried Cranberries, Blueberry",US,1360,0
+790410034,usda-ndb-import,2017-03-09T10:59:42Z,Dried Cranberries,US,1360,0
+790410041,usda-ndb-import,2017-03-09T16:44:48Z,Dried Mediterranean Apricots,US,941,0
+790410058,usda-ndb-import,2017-03-10T10:55:33Z,Dried Honey Crisp Apples,US,1255,0
+790410065,usda-ndb-import,2017-03-09T12:50:55Z,Wholesome & Delicious Dried Mangos,US,1464,0
+790410553,usda-ndb-import,2017-03-10T10:21:45Z,"Triple Fruit Treat, Mango, Cranberries, Blueberries",US,1456,0
+790420002,usda-ndb-import,2017-03-09T16:44:49Z,Red Apple Chips,US,1594,0
+790430018,usda-ndb-import,2017-03-09T16:10:11Z,"Pb&J Trail Mix, Grape",US,1971,25.88
+790430063,usda-ndb-import,2017-03-09T14:51:31Z,"Pb & J Trail Mix, Strawberry",US,1971,25.88
+790430070,usda-ndb-import,2017-03-09T15:03:40Z,"Pb&J Trail Mix, Grape",US,1971,25.88
+790440017,usda-ndb-import,2017-03-09T16:44:48Z,Red Apple Chips,US,1644,0
+790440024,usda-ndb-import,2017-03-09T16:44:49Z,Golden Apple Chips,US,1644,0
+790440031,usda-ndb-import,2017-03-09T16:44:50Z,Green Apple Chips,US,1644,0
+790500117,usda-ndb-import,2017-03-09T09:38:00Z,Fruit Gummies,US,1255,0
+790500148,usda-ndb-import,2017-03-10T08:39:37Z,Fruit Gummies Candy,US,1255,0
